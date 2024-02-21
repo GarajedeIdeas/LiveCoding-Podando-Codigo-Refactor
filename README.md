@@ -1,6 +1,8 @@
 # LiveCoding-Podando-Codigo-Refactor
 
 ## Repositorio y presentación utilizados para el taller
+- [Repositorio](https://github.com/conchaasensio/tennis-refactoring-kata-livecoding)
+- 
 
 ## Recursos útiles para aprender sobre refactoring
 - Libro [```Refactoring```](https://martinfowler.com/books/refactoring.html), de Martin Fowler.
