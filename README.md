@@ -2,7 +2,7 @@
 
 ## Repositorio y presentación utilizados para el taller
 - [Repositorio](https://github.com/conchaasensio/tennis-refactoring-kata-livecoding)
-- 
+- [Diapositivas](https://drive.google.com/file/d/1PImCziMPVTLnKQ4VhsFUgWApMauzYQN7/view?usp=sharing)
 
 ## Recursos útiles para aprender sobre refactoring
 - Libro [```Refactoring```](https://martinfowler.com/books/refactoring.html), de Martin Fowler.
